@@ -2155,6 +2155,7 @@ p.terms-txt a,
 .red-loading .object { background-color: #f6412d; }
 .violet-red-loading .object { background-color: #c73e9b; }
 .violet-loading .object { background-color: #9400d3; }
+.navy-loading .object { background-color: #00334E; }
 
 .object:nth-child(2n+0) {
   margin-right: 0px;
